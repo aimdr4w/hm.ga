@@ -44,7 +44,7 @@
     </p>
 
     <p class="diary">
-      Would you say that you are a good person or that you are just..... a person.... just a person. I have trouble understanding why we are the way we are. Whats with us humans what is  is about us that makes us....us. What makes us human, what makes us agry, what makes us sad , what makes us happy, what makes us love. What makes us tick
+     I dont understand life, waht is it for? are we all here for a reason? its diffucult to accept that there isnt a reason we exist because well...we exist. Then is there rly a god out there. If there is is said god anything we imagine they would be like.
     </p>
 
   </body>
